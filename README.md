@@ -2,7 +2,7 @@
 
 <!--
 **philipalexander01/philipalexander01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src ="https://github-readme-stats.vercel.app/api?username=philipalexander01&show_icons=true&theme=algolia" align="left"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
